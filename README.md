@@ -1,1 +1,1 @@
-# Analiza_i_bazy_danych_2021_lab
+# Analiza_i_bazy_danYch_2021_lab
