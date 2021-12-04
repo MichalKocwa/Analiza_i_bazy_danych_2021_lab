@@ -1,0 +1,11 @@
+Original data weather.txt is in OriginalData folder
+
+
+Variables:
+- 0th collumn -  contains information about ID of the weather station, year and month of measurement and type od measurement
+- 1 - 31 collumn - daily values of measurements
+
+The date of obtaining data 14.10.2021.
+
+The original data is available in :
+ https://github.com/KAIR-ISZ/public_lectures/tree/master/Analiza%20i%20Bazy%20Danych%202021/Lab%202/Datasets
