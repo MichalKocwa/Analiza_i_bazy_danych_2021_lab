@@ -7,5 +7,5 @@ Variables:
 
 The date of obtaining data 14.10.2021.
 
-The original data is available in :
+Original data is available in :
  https://github.com/KAIR-ISZ/public_lectures/tree/master/Analiza%20i%20Bazy%20Danych%202021/Lab%202/Datasets
